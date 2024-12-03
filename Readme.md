@@ -1,131 +1,74 @@
-<p align="left">
-  <a href="https://github.com/kwekuduahh/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=User+Experience+Designer;Frontend+Developer;UI+Designer;Always%20learning%20new%20things&amp;center=false&amp;width=400&amp;height=30"></a>
-</p>
-<h1 align="left">Hi , I'm Kweku Duah <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h4 align="left">I am a UX designer and Frontend developer with a knack for translating complex ideas into clean, user-focused designs. My work reflects a balance of creativity and practicality, ensuring solutions are not only visually engaging but also highly functional. Recent projects, I’ve applied my expertise into crafting a landing page for a shipping company and a tech agency, a dashboard for marketing brands/Brand Owners and a school management system showcasing my ability to align design with business goals.</h4>
+  <a href="https://github.com/kwekuduahh/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=User+Experience+Designer;Frontend+Developer;UI+Designer;Always%20learning%20new%20things&amp;center=false&amp;width=400&amp;height=28">
+  </a>
+
+## Hi , I'm Kweku Duah  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<div align="left">
+<h4 align="left">I am a UX designer and Frontend developer with a knack for translating complex ideas into clean, user-focused designs. My work reflects a balance of creativity and practicality, ensuring solutions are not only visually engaging but also highly functional. 
+
+- 🔭 I’m currently applying my expertise into crafting a dashboard for marketing brands/Brand Owners and a school management system.
+
+- 🌱 I’m currently improving my skills in React,Redux,TailwindCSS and TypeScript.
+</h4>
+
+<img src="https://user-images.githubusercontent.com/74038190/371756398-7dc581c4-98f2-45fd-be2d-204d0d4e3db3.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzMyNjE0MDcsIm5iZiI6MTczMzI2MTEwNywicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzOTgtN2RjNTgxYzQtOThmMi00NWZkLWJlMmQtMjA0ZDBkNGUzZGIzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjAzVDIxMjUwN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJiMzMyZjQwZGJjN2U1MDU1NWIxMzczZDcyMjQzODJhYTg2NjEzMDEyOTVmZWNkOTk2NTk2MzIwZjdjN2JkZDImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.c9CoV9Qil7nVXZBJeIGDSqkyr8Y3xh5j9M8o0HPgwWw" width="35">
+
+</div>
 <br>
+
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=kwekuduahh&amp;label=Profileviews&amp;color=0e75b6&amp;style=plastic" alt="kwekuduahh"> 
 </p>
-<h2 id="-streak-stats">🔥 Streak Stats</h2>
-<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kwekuduahh&amp;theme=algolia" alt="kwekuduahh"></p>
-<h2 id="️-my-skills">🛠️ My Skills</h2>
-<h3 id="-programming-languages">👉 Programming languages</h3>
-<p align="left">   
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C -#2370ED.svg?logo=c&amp;logoColor=white">
-  </a> 
-   
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++ -#00599C.svg?logo=c++&amp;logoColor=white">
-  </a> 
-   
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript -#F7DF1E.svg?logo=javascript&amp;logoColor=black">
-   </a>
-   
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-#007396.svg?logo=java&amp;logoColor=white">
-  </a>
-   
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python -#14354C.svg?logo=python&amp;logoColor=white">
-  </a>
-   
-  <a href="https://www.php.net/">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-#777BB4.svg?logo=php&amp;logoColor=white">
-  </a>
-</p>
-<h3 id="-frontend-development">👉 Frontend Development</h3>
-<p align="center"> 
-    
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5 -#E34F26.svg?logo=html5&amp;logoColor=white">
-  </a>   
-   
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS -#1572B6.svg?logo=css3&amp;logoColor=white">
-  </a> 
-    
-  <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-#563D7C.svg?style=flat&amp;logo=bootstrap&amp;logoColor=white">
-  </a>
-</p>
-<h3 id="-databases--cloud-hosting">👉 Databases &amp; Cloud Hosting</h3>
-<p align="left">
-   
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-#00f.svg?style=flat&amp;llogo=mysql&amp;logoColor=white"></a>
-   
-    <a href="https://www.sqlite.org/"><img alt="SQLite" src="https://img.shields.io/badge/sqlite-#07405e.svg?style=flat&amp;logo=sqlite&amp;logoColor=white"></a>
-   
-    <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub Pages-#327FC7.svg?style=flat&amp;llogo=github&amp;logoColor=white"></a>
-   
-    <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku -#430098.svg?logo=heroku&amp;logoColor=white"></a>  
-   
-    <a href="https://firebase.google.com/"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-#316192.svg?logo=firebase&amp;logoColor=white"></a>
- </p>
-<h3 id="graphic-designing">👉Graphic Designing</h3>
-< align="left">
-   
-   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
-    <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-#FF9A00.svg?style=flat&amp;logo=adobeillustrator&amp;logoColor=white">
-  </a> 
-   
-  <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"> 
-    <img alt="Adobe Indesign" src="https://img.shields.io/badge/Adobe Indesign-�49a0.svg?style=flat&amp;logo=adobeindesign&amp;logoColor=white"> 
-  </a> 
-     
-  <a href="https://www.adobe.com/in/products/photoshop-lightroom.html" target="_blank"> 
-    <img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe Lightroom-#00f.svg?style=flat&amp;logo=adobelightroom&amp;logoColor=white">
-  </a>
-    
-  <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> 
-   <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/AdobePremiere Pro-#00f.svg?style=flat&amp;logo=adobepremierepro&amp;logoColor=white">
-  </a>
 
-  <a href="#">
-  	<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&amp;logo=Canva&amp;logoColor=white">
-  </a>
- </p>
-<h3 id="-software--tools">👉 Software &amp; Tools</h3>
-<p>
-   
-    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&amp;logoColor=white"></a>
-   
-    <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&amp;logoColor=white"></a>
-   
-    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&amp;logoColor=white"></a>
-   
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&amp;logoColor=white"></a>
-   
-    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&amp;logo=linux&amp;logoColor=black"></a>
-   
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&amp;logoColor=white"></a>
-   
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&amp;logoColor=white"></a>
-   
-    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&amp;logoColor=white"></a>
-   
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&amp;logoColor=white"></a>
-   
-</p>
-<br>
-<h2 id="-github-stats-expand-to-view">📊 Github Stats (Expand to View)</h2>
-<details open=""> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br>
-  <p align="left">
-    <a href="https://github.com/kwekuduahh/github-readme-stats">
-    <img alt="Kwekuduahh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kwekuduahh&amp;show_icons=true&amp;count_private=true&amp;theme=algolia" height="165px">
-    </a>
-<br>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kwekuduahh&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;theme=algolia" alt="Kwekuduahh" height="165px">
-  <br>
-  </p>
-</details>
-<details open="">
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br>
-   <a href="https://github.com/kwekuduahh"><img alt="Kwekuduahh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kwekuduahh&amp;custom_title=Kweku%20Duah's%20Contribution%20Graph&amp;theme=react-dark"></a>
-  <br>
-</details>
+## 🔥 Streak Stats
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kwekuduahh&amp;theme=algolia" alt="kwekuduahh">
+
+
+# My Skills
+#### 👉 Frontend Development
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+</br>
+
+#### 👉 Version Control
+![Git](https://img.shields.io/badge/git-%23Fa5033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+</br>
+
+#### 👉 Design Tools
+
+![Figma](https://img.shields.io/badge/figma-%23000000.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+</br>
+
+#### 👉 Database & Cloud
+
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![MySQL](https://img.shields.io/badge/mysql-%23000000.svg?style=for-the-badge&logo=mysql&logoColor=white)
+</br>
+
+#### Work Environment
+
+![Windows](https://img.shields.io/badge/Windows-1a99c8?style=for-the-badge&logo=windows&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Webstorm](https://img.shields.io/badge/Webstorm-1acb88D6?style=for-the-badge&logo=webstorm&logoColor=white)
+
+</br>
+
+## 🤝 Connect with me
+
+<a href="https://www.linkedin.com/in/kwekuduahh/" target="_blank" rel="noreferrer">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://twitter.com/kwekuduahhh" target="_blank" rel="noreferrer">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
+<a href="mailto:asamoahduah101@gmail.com" target="_blank" rel="noreferrer">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+</br>
+
+💬 If you have any question/feedback, please do not hesitate to reach out to me!
+
