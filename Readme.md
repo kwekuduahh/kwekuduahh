@@ -11,7 +11,7 @@
 - 🌱 I’m currently improving my skills in React,Redux,TailwindCSS and TypeScript.
 </h4>
 
-<img src="https://user-images.githubusercontent.com/74038190/371756398-7dc581c4-98f2-45fd-be2d-204d0d4e3db3.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzMyNjE0MDcsIm5iZiI6MTczMzI2MTEwNywicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzOTgtN2RjNTgxYzQtOThmMi00NWZkLWJlMmQtMjA0ZDBkNGUzZGIzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjAzVDIxMjUwN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJiMzMyZjQwZGJjN2U1MDU1NWIxMzczZDcyMjQzODJhYTg2NjEzMDEyOTVmZWNkOTk2NTk2MzIwZjdjN2JkZDImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.c9CoV9Qil7nVXZBJeIGDSqkyr8Y3xh5j9M8o0HPgwWw" width="35">
+<img src="https://user-images.githubusercontent.com/74038190/213911167-6bc9ef46-2950-481c-a03c-189f9506083b.gif" width="165">
 
 </div>
 <br>
@@ -26,6 +26,13 @@
 
 
 # My Skills
+#### 👉 Design Tools
+
+![Figma](https://img.shields.io/badge/figma-%23000000.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+</br>
+
 #### 👉 Frontend Development
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -41,13 +48,6 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 </br>
 
-#### 👉 Design Tools
-
-![Figma](https://img.shields.io/badge/figma-%23000000.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-</br>
-
 #### 👉 Database & Cloud
 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
@@ -60,7 +60,6 @@
 ![Windows](https://img.shields.io/badge/Windows-1a99c8?style=for-the-badge&logo=windows&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Webstorm](https://img.shields.io/badge/Webstorm-1acb88D6?style=for-the-badge&logo=webstorm&logoColor=white)
-
 </br>
 
 ## 🤝 Connect with me
