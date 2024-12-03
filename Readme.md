@@ -3,22 +3,17 @@
   </a>
 
 ## Hi , I'm Kweku Duah  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<div align="left">
-<h4 align="left">I am a UX designer and Frontend developer with a knack for translating complex ideas into clean, user-focused designs. My work reflects a balance of creativity and practicality, ensuring solutions are not only visually engaging but also highly functional. 
+
+#### I am a UX designer and Frontend developer with a knack for translating complex ideas into clean, user-focused designs. My work reflects a balance of creativity and practicality, ensuring solutions are not only visually engaging but also highly functional. 
 
 - 🔭 I’m currently applying my expertise into crafting a dashboard for marketing brands/Brand Owners and a school management system.
 
 - 🌱 I’m currently improving my skills in React,Redux,TailwindCSS and TypeScript.
-</h4>
-
-<img src="https://user-images.githubusercontent.com/74038190/213911167-6bc9ef46-2950-481c-a03c-189f9506083b.gif" width="165">
-
-</div>
 <br>
 
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=kwekuduahh&amp;label=Profileviews&amp;color=0e75b6&amp;style=plastic" alt="kwekuduahh"> 
+  <img src="https://komarev.com/ghpvc/?username=kwekuduahh&amp;label=Profile Views&amp;color=0e75b6&amp;style=plastic" alt="kwekuduahh"> 
 </p>
 
 ## 🔥 Streak Stats
@@ -70,4 +65,6 @@
 </br>
 
 💬 If you have any question/feedback, please do not hesitate to reach out to me!
-
+<br>
+ 
+ <img src="https://user-images.githubusercontent.com/74038190/213911167-6bc9ef46-2950-481c-a03c-189f9506083b.gif" width="225">
