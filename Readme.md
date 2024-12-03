@@ -17,7 +17,9 @@
 </p>
 
 ## 🔥 Streak Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kwekuduahh&amp;theme=algolia" alt="kwekuduahh">
+
+![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=kwekuduahh&theme=dracula&hide_border=true) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kwekuduahh&theme=github_dark)
 
 
 # My Skills
