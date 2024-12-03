@@ -65,10 +65,10 @@
     <a href="https://firebase.google.com/"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-#316192.svg?logo=firebase&amp;logoColor=white"></a>
  </p>
 <h3 id="graphic-designing">👉Graphic Designing</h3>
-<p align="left">
+< align="left">
    
    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
-    <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe Illustrator-#FF9A00.svg?style=flat&amp;logo=adobeillustrator&amp;logoColor=white">
+    <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-#FF9A00.svg?style=flat&amp;logo=adobeillustrator&amp;logoColor=white">
   </a> 
    
   <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"> 
@@ -80,7 +80,52 @@
   </a>
     
   <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> 
-   <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe Premiere Pro-#00f.svg?style=flat&amp;logo=adobepremierepro&amp;logoColor=white">
+   <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/AdobePremiere Pro-#00f.svg?style=flat&amp;logo=adobepremierepro&amp;logoColor=white">
   </a>
-     
-  <a href="
+
+  <a href="#">
+  	<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&amp;logo=Canva&amp;logoColor=white">
+  </a>
+ </p>
+<h3 id="-software--tools">👉 Software &amp; Tools</h3>
+<p>
+   
+    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&amp;logoColor=white"></a>
+   
+    <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&amp;logoColor=white"></a>
+   
+    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&amp;logoColor=white"></a>
+   
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&amp;logoColor=white"></a>
+   
+    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&amp;logo=linux&amp;logoColor=black"></a>
+   
+    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&amp;logoColor=white"></a>
+   
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&amp;logoColor=white"></a>
+   
+    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&amp;logoColor=white"></a>
+   
+    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&amp;logoColor=white"></a>
+   
+</p>
+<br>
+<h2 id="-github-stats-expand-to-view">📊 Github Stats (Expand to View)</h2>
+<details open=""> 
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br>
+  <p align="left">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Kwekuduahh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kwekuduahh&amp;show_icons=true&amp;count_private=true&amp;theme=algolia" height="192px">
+    </a>
+<br>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kwekuduahh&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;theme=algolia" alt="Kwekuduahh" height="192px">
+  <br>
+  </p>
+</details>
+<details open="">
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br>
+   <a href="https://github.com/kwekuduahh"><img alt="Kwekuduahh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kwekuduahh&amp;custom_title=Kweku%20Duah's%20Contribution%20Graph&amp;theme=react-dark"></a>
+  <br>
+</details>
