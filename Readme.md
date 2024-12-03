@@ -1,19 +1,17 @@
-<h1 align="center">Hi , I'm Kweku Duah <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/kwekuduahh/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=User+Experience+Designer;Frontend+Developer;UI+Designer;Always%20learning%20new%20things&amp;center=true&amp;width=500&amp;height=50"></a>
+<p align="left">
+  <a href="https://github.com/kwekuduahh/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=User+Experience+Designer;Frontend+Developer;UI+Designer;Always%20learning%20new%20things&amp;center=false&amp;width=400&amp;height=30"></a>
 </p>
-<hr>
-<h4 align="center">I am a UX designer and Frontend developer with a knack for translating complex ideas into clean, user-focused designs. My work reflects a balance of creativity and practicality, ensuring solutions are not only visually engaging but also highly functional. Recent projects, I’ve applied my expertise into crafting a landing page for a shipping company and a tech agency, a dashboard for marketing brands/Brand Owners and a school management system showcasing my ability to align design with business goals.</h4>
+<h1 align="left">Hi , I'm Kweku Duah <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h4 align="left">I am a UX designer and Frontend developer with a knack for translating complex ideas into clean, user-focused designs. My work reflects a balance of creativity and practicality, ensuring solutions are not only visually engaging but also highly functional. Recent projects, I’ve applied my expertise into crafting a landing page for a shipping company and a tech agency, a dashboard for marketing brands/Brand Owners and a school management system showcasing my ability to align design with business goals.</h4>
 <br>
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=kwekuduahh&amp;label=Profileviews&amp;color=0e75b6&amp;style=plastic" alt="kwekuduahh"> 
 </p>
 <h2 id="-streak-stats">🔥 Streak Stats</h2>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kwekuduahh&amp;theme=algolia" alt="kwekuduahh"></p>
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kwekuduahh&amp;theme=algolia" alt="kwekuduahh"></p>
 <h2 id="️-my-skills">🛠️ My Skills</h2>
 <h3 id="-programming-languages">👉 Programming languages</h3>
-<p align="left"> 
-    
+<p align="left">   
   <a href="https://www.cprogramming.com/" target="_blank"> 
     <img alt="C" src="https://img.shields.io/badge/C -#2370ED.svg?logo=c&amp;logoColor=white">
   </a> 
@@ -39,7 +37,7 @@
   </a>
 </p>
 <h3 id="-frontend-development">👉 Frontend Development</h3>
-<p align="left"> 
+<p align="center"> 
     
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5 -#E34F26.svg?logo=html5&amp;logoColor=white">
