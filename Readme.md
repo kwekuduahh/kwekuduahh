@@ -1,9 +1,9 @@
-  <h1 align="center">Hi , I'm Kweku Duah <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Kweku Duah <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/kwekuduahh/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=User+Experience+Designer;Frontend+Developer;UI+Designer;Always learning new things&amp;center=true&amp;width=500&amp;height=50"></a>
 </p>
 <hr>
-<h4 align="center">I am a Junior at Fr. CRCE pursuing B.E. in CSE. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+<h4 align="center">I am a UX designer and Frontend developer with a knack for translating complex ideas into clean, user-focused designs. My work reflects a balance of creativity and practicality, ensuring solutions are not only visually engaging but also highly functional. Recent projects, I’ve applied my expertise into crafting a landing page for a shipping company and a tech agency, a dashboard for marketing brands/Brand Owners and a school management system showcasing my ability to align design with business goals.</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kwekuduahh&amp;label=Profile views&amp;color=0e75b6&amp;style=plastic" alt="kwekuduahh"> </p>
 <h2 id="-streak-stats">🔥 Streak Stats</h2>
