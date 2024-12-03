@@ -13,7 +13,7 @@
 
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=kwekuduahh&amp;label=Profile Views&amp;color=0e75b6&amp;style=plastic" alt="kwekuduahh"> 
+  <img src="https://komarev.com/ghpvc/?username=kwekuduahh&amp;label=Profile%20Views&amp;color=0e75b6&amp;style=plastic" alt="kwekuduahh"> 
 </p>
 
 ## 🔥 Streak Stats
