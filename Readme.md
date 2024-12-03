@@ -5,7 +5,9 @@
 <hr>
 <h4 align="center">I am a UX designer and Frontend developer with a knack for translating complex ideas into clean, user-focused designs. My work reflects a balance of creativity and practicality, ensuring solutions are not only visually engaging but also highly functional. Recent projects, I’ve applied my expertise into crafting a landing page for a shipping company and a tech agency, a dashboard for marketing brands/Brand Owners and a school management system showcasing my ability to align design with business goals.</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kwekuduahh&amp;label=Profile views&amp;color=0e75b6&amp;style=plastic" alt="kwekuduahh"> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kwekuduahh&amp;label=Profileviews&amp;color=0e75b6&amp;style=plastic" alt="kwekuduahh"> 
+</p>
 <h2 id="-streak-stats">🔥 Streak Stats</h2>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kwekuduahh&amp;theme=algolia" alt="kwekuduahh"></p>
 <h2 id="️-my-skills">🛠️ My Skills</h2>
