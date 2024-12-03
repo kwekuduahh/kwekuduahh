@@ -115,11 +115,11 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br>
   <p align="left">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Kwekuduahh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kwekuduahh&amp;show_icons=true&amp;count_private=true&amp;theme=algolia" height="192px">
+    <a href="https://github.com/kwekuduahh/github-readme-stats">
+    <img alt="Kwekuduahh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kwekuduahh&amp;show_icons=true&amp;count_private=true&amp;theme=algolia" height="165px">
     </a>
 <br>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kwekuduahh&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;theme=algolia" alt="Kwekuduahh" height="192px">
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kwekuduahh&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;theme=algolia" alt="Kwekuduahh" height="165px">
   <br>
   </p>
 </details>
