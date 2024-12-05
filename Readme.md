@@ -18,7 +18,7 @@
 
 ## 🔥 Streak Stats
 
-![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=kwekuduahh&theme=dracula&hide_border=true) 
+![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=kwekuduahh&theme=dracula&hide_border=true)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kwekuduahh&theme=github_dark)
 
 
