@@ -68,7 +68,7 @@
 
 ## 🤝 Connect with me
 
-<a href="https://www.linkedin.com/in/kwekuduahh/" target="_blank" rel="noreferrer">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/kweku-asamoah-8383ab1a9/" target="_blank" rel="noreferrer">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://twitter.com/kwekuduahhh" target="_blank" rel="noreferrer">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
 <a href="mailto:asamoahduah101@gmail.com" target="_blank" rel="noreferrer">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 </br>
