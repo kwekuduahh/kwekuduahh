@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently applying my expertise into crafting a dashboard for marketing brands/Brand Owners and a school management system.
 
-- 🌱 I’m also improving my skills in React, Redux,TailwindCSS and TypeScript.
+- 🌱 I’m also improving my skills in React, Redux, TypeScript and NextJS.
 <br>
 
 
